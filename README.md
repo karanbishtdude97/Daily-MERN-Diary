@@ -1,6 +1,9 @@
 
 DAILY DIARY OF 6-MONTHS INDUSTRIAL TRAINING
 (MERN STACK)
+Karan Bisht(2004607)
+Nitesh Kumar(2004632)
+Priyanshu Sharma(2004642)
 
 August 10th  
 Started my web development journey through an industrial training program!
